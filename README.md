@@ -34,5 +34,5 @@
 
 Данные о продажах взяты из набора данных "Sample - Superstore" и фильтруются по категории "Мебель".  
 
-Ссылка на стримлит: 
+Ссылка на стримлит: https://polyakovk-ts-streamlit-app-ylgmse.streamlit.app/
 
