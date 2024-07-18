@@ -12,6 +12,7 @@ colorlog==6.8.2
 contourpy==1.2.1
 cycler==0.12.1
 fonttools==4.53.1
+git-lfs==1.6
 gitdb==4.0.11
 GitPython==3.1.43
 graphviz==0.20.3
@@ -66,3 +67,4 @@ tqdm==4.66.4
 typing_extensions==4.12.2
 tzdata==2024.1
 urllib3==2.2.2
+xlrd==2.0.1
