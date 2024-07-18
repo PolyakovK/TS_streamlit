@@ -100,3 +100,4 @@ tzdata==2024.1
 urllib3==2.2.2
 wcwidth==0.2.13
 xgboost==2.1.0
+xlrd==2.0.1
